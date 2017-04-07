@@ -151,5 +151,5 @@ This project is to build CentOS 5 hvm image by kickstart on KVM for AWS.
 12. Copy the imported image to a image with the normal name
 >aws ec2 copy-image --source-image-id ami-c8111fab --source-region ap-southeast-2 --name "ami-centos-5.11-base-hvm-x86" --description "CentOS 5.11 base hvm"
 
-13. deregistered the imported image
+13. deregister the imported image
 >aws ec2 deregister-image --image-id ami-c8111fab
