@@ -1,0 +1,5 @@
+ {
+     "Description": "Vitaroma CentOS 6.8 base hvm x86_64",
+     "Format": "raw",
+     "Url": "https://s3-ap-southeast-2.amazonaws.com/vitaroma-ami/ami-centos-6.8-base-hvm.img"
+ }

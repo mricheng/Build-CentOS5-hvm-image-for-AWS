@@ -1,0 +1,12 @@
+{
+    "Description": "Import image",
+    "DiskContainers": [
+        {
+            "Description": "import raw image",
+            "UserBucket": {
+                "S3Bucket": "vitaroma-ami",
+                "S3Key": "ami-centos-6.8-base-hvm.img"
+            }
+        }
+    ]
+}
